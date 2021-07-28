@@ -12,4 +12,5 @@ Anonymized dataset containing a large number of numeric variables. The "TARGET" 
 <h2> Task </h2>
 The competition task is to predict the probability that each customer in the test set is an unsatisfied customer.
 
-<h2> Features </h2>
+<h2> Implementation Approach </h2>
+1. I started 
